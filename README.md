@@ -44,7 +44,7 @@
 
 ### **Meus Repositórios**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zadik-hacker&repo=zadik-ddos&show_owner=true&hide_border=true&bg_color=000000&text_color=9745f5)](https://github.com/zadik-hacker/zadik-ddos)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zadik-hacker&repo=python&show_owner=true&bg_color=000000&hide_border=true&text_color=9745f5)](https://github.com/zadik-hacker/python)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zadik-hacker&repo=jogo-do-numero-secreto&show_owner=true&hide_border=true&bg_color=000000&text_color=9745f5)](https://github.com/zadik-hacker/jogo-do-numero-secreto)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zadik-hacker&repo=python&show_owner=true&bg_color=000000&hide_border=true&text_color=9745f5)](https://github.com/zadik-hacker/python)
 ---
 - ### **Sobre mim**:
 
