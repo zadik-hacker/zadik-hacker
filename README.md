@@ -50,4 +50,4 @@
 
 - **_Estudando todos os dias a procura de ir para europa trabalhar com programação, e se tornar full stack_**
 
-- <img src="./terminal.gif" alt="terminal gif">
+
