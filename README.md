@@ -48,6 +48,6 @@
 ---
 - ### **Sobre mim**:
 
-- **_Estudando todos os dias a procura de ir para europa trabalhar com programação, e se tornar full stack_**
+- **_Apenas Um Cara Random **
 
 
